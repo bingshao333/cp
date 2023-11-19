@@ -1,2 +1,2 @@
 # cp
-Code for competitive programming
+Code for competitive programming.
