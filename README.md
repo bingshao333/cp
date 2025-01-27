@@ -1,2 +1,2 @@
 # cp
-Code for competitive programming.
+Competitive programming templates configured in vscode.
